@@ -23,5 +23,4 @@ func main() {
 	println(x, y, z)
 	println(KB, MB, GB)
 	println(a, b, c, d)
-
 }
